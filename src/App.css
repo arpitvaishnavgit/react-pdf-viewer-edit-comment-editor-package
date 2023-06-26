@@ -1,0 +1,28 @@
+.App {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.App .header {
+  width: 100%;
+  height: 60px;
+  padding: 8px 8px 8px 16px;
+  box-sizing: border-box;
+  background: #1c273c;
+  font-size: 1.2em;
+  line-height: 44px;
+  color: white;
+}
+
+
+.back_btn{
+  text-decoration: none;
+  background-color: white;
+  border-radius: 5px;
+  float: right;
+  font-size: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
